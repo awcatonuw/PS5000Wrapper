@@ -10,3 +10,16 @@
 /Users/catherineye/Library/CloudStorage/OneDrive-UniversityofWaterloo/uw/ura/PS5000Wrapper/Wrapper/obj/Debug/net9.0/refint/Wrapper.dll
 /Users/catherineye/Library/CloudStorage/OneDrive-UniversityofWaterloo/uw/ura/PS5000Wrapper/Wrapper/obj/Debug/net9.0/Wrapper.pdb
 /Users/catherineye/Library/CloudStorage/OneDrive-UniversityofWaterloo/uw/ura/PS5000Wrapper/Wrapper/obj/Debug/net9.0/ref/Wrapper.dll
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/bin/Debug/net9.0/runtimes/linux-x64/native/libps5000a.so
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/bin/Debug/net9.0/Wrapper.deps.json
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/bin/Debug/net9.0/Wrapper.dll
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/bin/Debug/net9.0/Wrapper.pdb
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/obj/Debug/net9.0/Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/obj/Debug/net9.0/Wrapper.AssemblyInfoInputs.cache
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/obj/Debug/net9.0/Wrapper.AssemblyInfo.cs
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/obj/Debug/net9.0/Wrapper.csproj.CoreCompileInputs.cache
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/obj/Debug/net9.0/Wrapper.sourcelink.json
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/obj/Debug/net9.0/Wrapper.dll
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/obj/Debug/net9.0/refint/Wrapper.dll
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/obj/Debug/net9.0/Wrapper.pdb
+/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/obj/Debug/net9.0/ref/Wrapper.dll

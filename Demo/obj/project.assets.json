@@ -27,33 +27,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/catherineye/.nuget/packages/": {}
+    "/home/digitizer-7/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/catherineye/Library/CloudStorage/OneDrive-UniversityofWaterloo/uw/ura/PS5000Wrapper/Demo/Demo.csproj",
+      "projectUniqueName": "/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Demo/Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "/Users/catherineye/Library/CloudStorage/OneDrive-UniversityofWaterloo/uw/ura/PS5000Wrapper/Demo/Demo.csproj",
-      "packagesPath": "/Users/catherineye/.nuget/packages/",
-      "outputPath": "/Users/catherineye/Library/CloudStorage/OneDrive-UniversityofWaterloo/uw/ura/PS5000Wrapper/Demo/obj/",
+      "projectPath": "/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Demo/Demo.csproj",
+      "packagesPath": "/home/digitizer-7/.nuget/packages/",
+      "outputPath": "/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/catherineye/.nuget/NuGet/NuGet.Config"
+        "/home/digitizer-7/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/opt/homebrew/Cellar/dotnet/9.0.8/libexec/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/catherineye/Library/CloudStorage/OneDrive-UniversityofWaterloo/uw/ura/PS5000Wrapper/Wrapper/Wrapper.csproj": {
-              "projectPath": "/Users/catherineye/Library/CloudStorage/OneDrive-UniversityofWaterloo/uw/ura/PS5000Wrapper/Wrapper/Wrapper.csproj"
+            "/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/Wrapper.csproj": {
+              "projectPath": "/home/digitizer-7/picoscope_wrapper/PS5000Wrapper/Wrapper/Wrapper.csproj"
             }
           }
         }
@@ -68,7 +67,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -89,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.8/libexec/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
